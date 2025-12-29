@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Software Engineer | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/theophilus" target="_blank">
+  <a href="https://www.linkedin.com/in/theophilus-odubena-180148180/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:theophilus@example.com">
@@ -17,7 +17,7 @@
   - Backend APIs & RESTful services  
   - Full Stack application architecture  
 
-- 📄 *Experience:* [LinkedIn Profile](https://linkedin.com/in/theophilus)  
+- 📄 *Experience:* [LinkedIn Profile](https://www.linkedin.com/in/theophilus-odubena-180148180/)  
 - 🌍 *Location:* Tallinn, Estonia  
 - 💻 *Open to:* Full Stack opportunities, side projects & collaborations
 

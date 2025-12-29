@@ -58,5 +58,5 @@
 
 - **Full Stack Engineer Intern** @ Doyenify — Building React functional components, backend APIs, and full-stack applications
 - **Full Stack Developer** with experience in React, Python, and database design
-- **12+ years** professional experience with strong foundation in problem-solving and technical development
+- **7+ years** professional experience with strong foundation in problem-solving and technical development
 - **Agile/Scrum certified** — Experienced in collaborative development environments
